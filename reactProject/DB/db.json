@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "adel",
+      "body": "wellcom to my site ",
+      "img": "https://static.hiamag.com/inline-images/242486400_411450193675388_3413843437877687800_n.jpg"
+    },
+    {
+      "id": "2",
+      "title": "mohamed",
+      "body": "lorem",
+      "img": "https://www.kingfut.com/wp-content/uploads/2022/05/FRtLS8VXsAAP4nn-1536x1024.jpg"
+    },
+    {
+      "id": "3",
+      "title": "mohamed",
+      "body": "allah save the kingggg",
+      "img": "https://www.footyrenders.com/render/ahmed-zizo-sayed-7.png"
+    },
+    {
+      "id": "4",
+      "title": "mohamed",
+      "body": "shika",
+      "img": "https://i.pinimg.com/736x/94/99/ea/9499eadf8e4adc47558fa1f6239b84b6.jpg"
+    },
+    {
+      "id": "5",
+      "title": "karem",
+      "body": "salam 3lekom",
+      "img": "https://i.ytimg.com/vi/ug0jbmvUmGU/hqdefault.jpg"
+    },
+    {
+      "id": "5ff8",
+      "title": "mo",
+      "body": "allam",
+      "img": "https://i.pinimg.com/736x/a3/ee/32/a3ee32873bdd42135219ee2e6ce9de08.jpg"
+    },
+    {
+      "id": "20e0",
+      "title": "aaaaaaaaaaaa",
+      "body": "aaaaaaaaaaaaaa",
+      "img": "https://media.filfan.com/NewsPics/FilfanNew/large/BRLNK205.jpg"
+    },
+    {
+      "id": "0a4c",
+      "title": "wwwwwwwwww",
+      "body": "wwwwwwwwwwww",
+      "img": "https://mediaaws.almasryalyoum.com/news/large/2020/05/17/1243232_0.jpg"
+    },
+    {
+      "id": "d3b6",
+      "title": "mohamedallam",
+      "body": "ana allam",
+      "img": "https://www.barcoding.co.uk/wp-content/uploads/2019/06/Homepage-Laptop-Website-Internet-1024x769.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "59c0"
+    },
+    {
+      "id": "sdff",
+      "fullName": "mooooooooooooooooooooooo",
+      "password": "777777777777777777",
+      "email": "m@gmail.com",
+      "phone": "111111111111111111111",
+      "gender": "male"
+    },
+    {
+      "id": "ad",
+      "fullName": "mohamed",
+      "password": "000",
+      "email": "w@gamil.com",
+      "phone": "01153244896",
+      "gender": "male"
+    }
+  ]
+}
